@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.exe
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.deps.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\bin\Debug\net5.0\task.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\refint\task.dll
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.pdb
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\task.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\tasks\task\task\obj\Debug\net5.0\ref\task.dll
